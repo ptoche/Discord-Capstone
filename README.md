@@ -44,6 +44,11 @@ See: https://micromasters.mit.edu/ds/capstone-exam/
 
 1. The course websites, including the existing posts in the discussion forum, of all 4 courses in the MicroMasters. These are the course runs which you had enrolled in and passed, and (You will not be allowed to access any current runs of the courses.) The forums of the past courses runs will be closed during the Capstone exams.
 
+- Probability 6.431x: Dimitri P. Bertsekas and John N. Tsitsiklis, Tables from *Introduction to Probability*.
+https://courses.edx.org/courses/course-v1:MITx+6.431x+1T2024/pdfbook/0/chapter/1/1
+
+
+
 2. The cheatsheets that you will use have to be uploaded in advance of the Capstone exam.
 
 3. 10 blank pieces of paper for rough work.
@@ -56,24 +61,73 @@ See: https://micromasters.mit.edu/ds/capstone-exam/
 
 7. The following online translators. You are not allowed to open any pre-saved files on any of the translation websites.
 
-- Google translate: https://translate.google.com/
-- Fanyi Youdao http://fanyi.youdao.com/
-- Bing Translator https://www.bing.com/translator
+- Google translate:
+https://translate.google.com/
+- Fanyi Youdao:
+http://fanyi.youdao.com/
+- Bing Translator:
+https://www.bing.com/translator
 
 8. The following online calculators and computing software.
 
-- Google calculator: https://www.google.com/?zx=1760834419775&no_sw_cr=1
-- Wolfram Alpha: https://www.wolframalpha.com/ 
-- Online R: https://rdrr.io/
-- Derivative Calculator: https://www.derivative-calculator.net/
-- Integral Calculator: https://www.integral-calculator.com/
-- Quadratic Formula Calculator: https://www.mathpapa.com/quadratic-formula/
-- Equation Solver: https://www.mathpapa.com/equation-solver/
-- Equation Solver: https://en.symbolab.com/solver
-- Matrix Calculator: https://matrixcalc.org/ [recently added]
-- Symbolab Graphing Calculator: https://en.symbolab.com/graphing-calculator
-- Desmos Graphing Calculator: https://www.desmos.com/calculator
-- Geogebra Graphing Calculator: https://www.geogebra.org/calculator [recently added]
+- Wolfram Alpha:
+https://www.wolframalpha.com/ 
+- Desmos Graphing Calculator:
+https://www.desmos.com/calculator
+- Geogebra Graphing Calculator:
+https://www.geogebra.org/calculator
+- Symbolab Graphing Calculator:
+https://en.symbolab.com/graphing-calculator
+- Google calculator:
+https://www.google.com/?zx=1760834419775&no_sw_cr=1
+- Online R:
+https://rdrr.io/
+- Derivative Calculator:
+https://www.derivative-calculator.net/
+- Integral Calculator:
+https://www.integral-calculator.com/
+- Quadratic Formula Calculator:
+https://www.mathpapa.com/quadratic-formula/
+- Equation Solver:
+https://www.mathpapa.com/equation-solver/
+- Equation Solver:
+https://en.symbolab.com/solver
+- Matrix Calculator:
+https://matrixcalc.org/
+- Discrete | Binomial Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/bin.html
+- Discrete | Geometric Distribution (I):
+https://homepage.divms.uiowa.edu/~mbognar/applets/geo1.html
+- Discrete | Geometric Distribution (II):
+https://homepage.divms.uiowa.edu/~mbognar/applets/geo2.html
+- Discrete | Hypergeometric Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/hg.html
+- Discrete | Negative Binomial Distribution (I):
+https://homepage.divms.uiowa.edu/~mbognar/applets/nb1.html
+- Discrete | Negative Binomial Distribution (II):
+https://homepage.divms.uiowa.edu/~mbognar/applets/nb2.html
+- Discrete | Poisson Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html
+- Continuous | Beta Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/beta.html
+- Continuous | Chi-Square Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/chisq.html
+- Continuous | Exponential Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/exp.html
+- Continuous | F Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/f.html
+- Continuous | Gamma Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/gamma.html
+- Continuous | Log-Normal Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/lognormal.html
+- Continuous | Normal Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html
+- Continuous | Pareto (Type I) Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/pareto.html
+- Continuous | Student-t Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/t.html
+- Continuous | Weibull Distribution:
+https://homepage.divms.uiowa.edu/~mbognar/applets/weibull.html
 
 We do not expect you to need these tools much in the exam, but allow them for your convenience. You are not allowed to open any pre-saved files on any of the translation websites.
 
